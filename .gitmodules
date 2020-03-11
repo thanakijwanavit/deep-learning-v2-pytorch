@@ -1,0 +1,3 @@
+[submodule "dermatologist-ai"]
+	path = dermatologist-ai
+	url = https://github.com/udacity/dermatologist-ai.git
