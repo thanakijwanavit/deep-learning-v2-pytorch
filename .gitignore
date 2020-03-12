@@ -1,4 +1,9 @@
 .ipynb_checkpoints
 *.zip
 
+*/samples_cyclegan/*.png
 */summer2winter-yosemite
+
+
+__MACOSX
+__pycache__
